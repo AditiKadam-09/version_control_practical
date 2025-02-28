@@ -59,7 +59,7 @@ This project follows a step-by-step Git and GitHub workflow to illustrate the co
 
 ## Contact
 Aditi Kadam:- 8669391098
-Abhishek Digh:- 9834991104
+Abhishek Dighe:- 9834991104
 Tanmay Gawali:- 8010381438
 Saurabh Lahare:- 9130276091
 For any queries or collaboration requests, feel free to reach out!
