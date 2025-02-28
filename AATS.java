@@ -8,5 +8,8 @@ public class AATS {
         System.out.print("Enter second number:");
         int b = input.nextInt();
         System.out.println("Addition of " + a + " and " + b + " is " + (a + b));
+
+        //Subtraction (Tanmay)
+        System.out.println("Subtraction of" + a + " and " + b + " is " + (a - b));    
     }
 }
