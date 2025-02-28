@@ -8,6 +8,5 @@ public class AATS {
         System.out.print("Enter second number:");
         int b = input.nextInt();
         System.out.println("Addition of " + a + " and " + b + " is " + (a + b));
-        System.out.println("Division of " + a + " and " + b + " is " + (a / b));
     }
 }
